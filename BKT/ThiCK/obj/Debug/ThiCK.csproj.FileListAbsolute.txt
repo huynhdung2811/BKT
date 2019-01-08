@@ -1,0 +1,14 @@
+C:\Users\COMPUTER\source\repos\ThiCK\ThiCK\bin\Debug\ThiCK.exe.config
+C:\Users\COMPUTER\source\repos\ThiCK\ThiCK\bin\Debug\ThiCK.exe
+C:\Users\COMPUTER\source\repos\ThiCK\ThiCK\bin\Debug\ThiCK.pdb
+C:\Users\COMPUTER\source\repos\ThiCK\ThiCK\obj\Debug\ThiCK.csprojAssemblyReference.cache
+C:\Users\COMPUTER\source\repos\ThiCK\ThiCK\obj\Debug\ThiCK.Form1.resources
+C:\Users\COMPUTER\source\repos\ThiCK\ThiCK\obj\Debug\ThiCK.Properties.Resources.resources
+C:\Users\COMPUTER\source\repos\ThiCK\ThiCK\obj\Debug\ThiCK.csproj.GenerateResource.cache
+C:\Users\COMPUTER\source\repos\ThiCK\ThiCK\obj\Debug\ThiCK.csproj.CoreCompileInputs.cache
+C:\Users\COMPUTER\source\repos\ThiCK\ThiCK\obj\Debug\ThiCK.exe
+C:\Users\COMPUTER\source\repos\ThiCK\ThiCK\obj\Debug\ThiCK.pdb
+C:\Users\COMPUTER\source\repos\ThiCK\ThiCK\bin\Debug\Newtonsoft.Json.dll
+C:\Users\COMPUTER\source\repos\ThiCK\ThiCK\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\COMPUTER\source\repos\ThiCK\ThiCK\bin\Debug\Newtonsoft.Json.xml
+C:\Users\COMPUTER\source\repos\ThiCK\ThiCK\obj\Debug\ThiCK.csproj.CopyComplete
